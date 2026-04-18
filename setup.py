@@ -17,7 +17,6 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/{AUTHOR_USER_NAME}/{SRC_REPO}",
-    packages=setuptools.find_packages(),
     project_urls={
         "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{SRC_REPO}/issues",
     },

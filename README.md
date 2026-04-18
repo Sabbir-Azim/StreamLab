@@ -193,7 +193,7 @@ If you plan to publish on PyPI, make sure the license in this README matches you
 ## Author
 
 **Sabbir Azim**  
-GitHub: [@Sabbir-Azim](https://github.com/Sabbir-Azim)
+GitHub: [Sabbir-Azim](https://github.com/Sabbir-Azim)
 
 ---
 

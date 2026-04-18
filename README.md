@@ -1,7 +1,7 @@
 # StreamLab
 
 <p align="center">
-  <img src="assets/streamlab-banner.png" alt="StreamLab banner" width="100%">
+  <img src="streamlab-banner.png" alt="StreamLab banner" style="max-width:100%; height:auto;">
 </p>
 
 Render websites and YouTube videos directly inside IPython notebooks.

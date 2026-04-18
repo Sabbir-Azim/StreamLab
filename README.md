@@ -1,7 +1,7 @@
 # StreamLab
 
 <p align="center">
-  <img src="assets/streamlab-banner.png" alt="StreamLab banner" width="100%">
+  <img src="streamlab-banner.png" alt="StreamLab banner" style="max-width:100%; height:auto;">
 </p>
 
 Render websites and YouTube videos directly inside IPython notebooks.
@@ -37,7 +37,7 @@ Use it for:
 
 ## Installation
 
-Install from PyPI:
+You can install StreamLab via pip:
 
 ```bash
 pip install streamlab
@@ -46,7 +46,21 @@ pip install streamlab
 Or install the latest development version from GitHub:
 
 ```bash
-pip install git+https://github.com/<your-username>/StreamLab.git
+pip install git+https://github.com/Sabbir-Azim/StreamLab.git
+```
+
+How to install this package in your system
+
+```bash
+conda create -n streamlab_env python=3.8 -y
+```
+
+```bash
+conda activate streamlab_env
+```
+
+```bash
+pip install -r requirements_dev.txt
 ```
 
 ---
@@ -169,7 +183,7 @@ Add your preferred license here.
 Example:
 
 ```text
-MIT License
+Apache License
 ```
 
 If you plan to publish on PyPI, make sure the license in this README matches your repository and package metadata.
@@ -178,8 +192,8 @@ If you plan to publish on PyPI, make sure the license in this README matches you
 
 ## Author
 
-**Your Name**  
-GitHub: [@your-username](https://github.com/<your-username>)
+**Sabbir Azim**  
+GitHub: [@Sabbir-Azim](https://github.com/Sabbir-Azim)
 
 ---
 

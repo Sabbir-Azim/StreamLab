@@ -21,5 +21,10 @@ setuptools.setup(
         "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{SRC_REPO}/issues",
     },
     package_dir={"": "src"},
-    packages=setuptools.find_packages(where="src")
+    packages=setuptools.find_packages(where="src"),
+    install_requires=[
+        "py-youtube==1.1.7",
+        "ensure==1.0.2",
+        "ipython>=8.12.3",
+    ],
 )
